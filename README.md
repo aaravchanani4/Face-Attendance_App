@@ -55,10 +55,6 @@
 - dlib library
 - python-virtualenv
 
-##### Some reffernence to install dlib :
-- [dlib installation in ubuntu](https://kumarvinay.com/installing-dlib-library-in-ubuntu/)
-- [dlib installation in windows](https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f#:~:text=First%20of%20all%2C%20you%20need%20to%20install%20CMake%20library.&text=Then%2C%20you%20can%20install%20dlib%20library%20using%20pip%20install%20.&text=After%20passing%20enter%2C%20you%20laptop,run%20the%20C%2C%20C%2B%2B%20Compiler.)
-
 #### [ step 1 ] :
 - clone the repository
 ``` 
@@ -144,9 +140,6 @@ python manage.py runserver
 ## Demo
 
 ![1](https://user-images.githubusercontent.com/72041195/170764279-9df8ca3e-cf08-4e2e-a608-a49f43777db9.gif)
-<br>
-<br>
-![2](https://user-images.githubusercontent.com/72041195/170764286-00492cfa-d5b0-4205-95fb-34f00ce051fe.gif)
 <br>
 <br>
 ![3](https://user-images.githubusercontent.com/72041195/170764383-9cee34ed-75e1-410d-9af3-414ac998f5e8.gif)
