@@ -133,8 +133,5 @@ python manage.py runserver
 
 #
 ## Demo
-
-![1](https://user-images.githubusercontent.com/72041195/170764279-9df8ca3e-cf08-4e2e-a608-a49f43777db9.gif)
-<br>
 <br>
 ![3](https://user-images.githubusercontent.com/72041195/170764383-9cee34ed-75e1-410d-9af3-414ac998f5e8.gif)
