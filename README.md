@@ -58,7 +58,7 @@
 #### [ step 1 ] :
 - clone the repository
 ``` 
-git clone https://github.com/padmaja2305/engage-face_recognition.git
+git clone https://github.com/aaravchanani4/Face-Attendance_App.git
 ```
 #### [ step 2 ] :
 - Open terminal and navigate to the directory
@@ -90,7 +90,7 @@ python manage.py runserver
 - Open browser and navigate to http://127.0.0.1:8000/
 
 <!-- > Hosted on Digital Ocean
-- Browse to https://padmaja.live -->
+- Browse to https://aarav.live -->
 
 <br>
 
