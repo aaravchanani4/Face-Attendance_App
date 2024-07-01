@@ -85,7 +85,7 @@ pip install -r requirment.txt
 - Run the server
 ```
 python manage.py runserver
-
+```
 
 <br>
 
